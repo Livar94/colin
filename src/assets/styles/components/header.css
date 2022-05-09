@@ -1,0 +1,40 @@
+
+
+.container {
+    background-color: #371AEE;
+    padding: 2rem;
+}
+
+.content {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.btn {
+    background: transparent;
+    color: white;
+    border-color: white;
+    
+}
+
+.btns {
+    display: flex;
+    gap: 1rem;
+
+}
+
+.img-btn {
+    align-items: center;
+    display: flex;
+    gap: 4rem;
+    
+}
+
+.img-logo {
+
+    max-width: 50px;
+}
